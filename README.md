@@ -9,7 +9,7 @@ Here we provide the development kit tutorial of the challenge where you will lea
 * Build [linearizing encoding models][encoding] using a pretrained [AlexNet][alexnet] architecture, evaluate them and visualize the resulting prediction accuracy (i.e., encoding accuracy).
 * Prepare the predicted brain responses to the test images in the right format for submission to the challenge leaderboard.
 
-Please watch [this video][!!!!!!!!!!!!! link !!!!!!!!!!!!!] for an introduction to the Algonauts Project 2023 Challenge and a walkthrough of this development kit tutorial. [Here][colab] you can run this tutorial on Google Colab.
+Please watch [this video][!!!!!!!!!!!!! link !!!!!!!!!!!!!] for an introduction to the Algonauts Project 2023 Challenge and a walkthrough of this development kit tutorial. You can also run this tutorial on [Google Colab][colab].
 
 Should you experience problems with the code, please get in touch with Ale (alessandro.gifford@gmail.com).
 
