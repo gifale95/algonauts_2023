@@ -1,6 +1,6 @@
 # **The Algonauts Project 2023 Challenge - devkit tutorial**
 
-![Algonauts 2023 logo](algonauts2023_logo.png)
+![Algonauts 2023 logo](algonauts_2023_logo.png)
 
 You can also run this tutorial on [Google Colab][colab]!
 
