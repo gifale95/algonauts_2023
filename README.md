@@ -13,7 +13,7 @@ Here we provide the development kit tutorial of the Challenge (`algonauts_2023_c
 * Build [linearizing encoding models][encoding] using a pretrained [AlexNet][alexnet] architecture, evaluate them and visualize the resulting prediction accuracy (i.e., encoding accuracy).
 * Prepare the predicted brain responses to the test images in the right format for submission to the Challenge leaderboard.
 
-Please watch [this video][!!!!!!!!!!!!! link !!!!!!!!!!!!!] for an introduction to the Algonauts Project 2023 Challenge and a walkthrough of this development kit tutorial.
+Please watch [this video][video] for an introduction to the Algonauts Project 2023 Challenge and a walkthrough of this development kit tutorial.
 
 Should you experience problems with the code, please get in touch with Ale (alessandro.gifford@gmail.com).
 
@@ -24,6 +24,7 @@ Should you experience problems with the code, please get in touch with Ale (ales
 [encoding]: https://www.sciencedirect.com/science/article/pii/S1053811910010657
 [alexnet]: https://arxiv.org/abs/1404.5997
 [colab]: https://colab.research.google.com/drive/1bLJGP3bAo_hAOwZPHpiSHKlt97X9xsUw?usp=share_link
+[video]: https://youtu.be/KlwSDpxUX6k
 
 
 
@@ -39,7 +40,7 @@ Should you experience problems with the code, please get in touch with Ale (ales
 
 [Challenge DevKit Tutorial (GitHub)][tutorial_github]
 
-[Challenge Overview and Colab Tutorial Walkthrough Video][!!!!!!!!!!!!! link !!!!!!!!!!!!!]
+[Challenge Overview and Colab Tutorial Walkthrough Video][video]
 
 [CodaLab Challenge Submission Page][codalab]
 
@@ -56,6 +57,7 @@ Should you experience problems with the code, please get in touch with Ale (ales
 [data]: https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link
 [tutorial_colab]: https://colab.research.google.com/drive/1bLJGP3bAo_hAOwZPHpiSHKlt97X9xsUw?usp=share_link
 [tutorial_github]: https://github.com/gifale95/algonauts_2023
+[video]: https://youtu.be/KlwSDpxUX6k
 [codalab]: https://codalab.lisn.upsaclay.fr/competitions/9304
 [codalab_video]: https://www.youtube.com/watch?v=-Nu2DL-zL4U
 [nsd]: https://naturalscenesdataset.org/
