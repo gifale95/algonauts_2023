@@ -2,7 +2,7 @@
 
 ![Algonauts 2023 logo](algonauts_2023_logo.png)
 
-You can also run this tutorial on [Google Colab][colab]!
+You can also run this tutorial interactively on [Google Colab][colab]!
 
 The quest to understand the nature of human intelligence and engineer more advanced forms of artificial intelligence are becoming increasingly intertwined. The Algonauts Project brings biological and machine intelligence researchers together on a common platform to exchange ideas and advance both fields. The 2023 challenge focuses on explaining neural visual responses to complex naturalistic scenes.
 
