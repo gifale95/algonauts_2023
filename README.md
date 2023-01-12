@@ -28,7 +28,7 @@ Should you experience problems with the code, please get in touch with Ale (ales
 
 
 
-## References
+## Useful links
 
 [Challenge Website][website]
 
