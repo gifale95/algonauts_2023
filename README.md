@@ -59,7 +59,7 @@ Should you experience problems with the code, please get in touch with Ale (ales
 [tutorial_github]: https://github.com/gifale95/algonauts_2023
 [video]: https://youtu.be/KlwSDpxUX6k
 [codalab]: https://codalab.lisn.upsaclay.fr/competitions/9304
-[codalab_video]: https://www.youtube.com/watch?v=-Nu2DL-zL4U
+[codalab_video]: https://youtu.be/6b8OuMSXIpA
 [nsd]: https://naturalscenesdataset.org/
 [coco]: https://cocodataset.org/#home
 [adapt_coco_meta]: https://github.com/styvesg/nsd_gnet8x/blob/main/data_preparation.ipynb
