@@ -15,7 +15,7 @@ Here we provide the development kit tutorial of the Challenge (`algonauts_2023_c
 
 Please watch [this video][video] for an introduction to the Algonauts Project 2023 Challenge and a walkthrough of this development kit tutorial.
 
-Even if you're not interested in the Algonauts Project 2023 Challenge, you might still find this tutorial useful as an introduction to fMRI data and encoding models of the visual brain.
+**Even if you're not interested in the Algonauts Project 2023 Challenge, you might still find this tutorial useful as an introduction to fMRI data and encoding models of the visual brain.**
 
 Should you experience problems with the code, please get in touch with Ale (alessandro.gifford@gmail.com).
 
