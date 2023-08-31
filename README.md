@@ -4,6 +4,8 @@
 
 You can also run this tutorial interactively on [Google Colab][colab]!
 
+**NOTE: Even if you're not interested in the Algonauts Project 2023 Challenge, you might still find this tutorial useful as an introduction to fMRI data and encoding models of the visual brain.**
+
 The quest to understand the nature of human intelligence and engineer more advanced forms of artificial intelligence are becoming increasingly intertwined. The Algonauts Project brings biological and machine intelligence researchers together on a common platform to exchange ideas and advance both fields. The 2023 challenge focuses on explaining neural visual responses to complex naturalistic scenes.
 
 The Challenge is based on the [Natural Scenes Dataset][nsd] (NSD), a massive dataset of 7T fMRI responses to images of natural scenes coming from the [COCO dataset][coco]. The goal of the Challenge is to promote the development of cutting-edge encoding models which accurately predict (i.e., encode) the fMRI responses to visual input. You can read more about the Challenge in the [website][web] and [paper][paper].
