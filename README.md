@@ -34,6 +34,8 @@ Should you experience problems with the code, please get in touch with Ale (ales
 
 ## Useful links
 
+[Algonauts session at CCN 2023][ccn]
+
 [Challenge Website][website]
 
 [Challenge Paper][paper]
@@ -56,6 +58,7 @@ Should you experience problems with the code, please get in touch with Ale (ales
 
 [Adapt COCO Metadata to Cropped NSD Images][adapt_coco_meta]
 
+[ccn]: https://www.youtube.com/live/9Xh55mcWJeE?si=NFwit-aS8kgZnZMa&t=382
 [website]: http://algonauts.csail.mit.edu
 [paper]: https://arxiv.org/abs/2301.03198
 [data]: https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link
