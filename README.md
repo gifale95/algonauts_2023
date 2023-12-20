@@ -4,7 +4,7 @@
 
 You can also run this tutorial interactively on [Google Colab][colab]!
 
-**NOTE: Even if you're not interested in the Algonauts Project 2023 Challenge, you might still find this tutorial useful as an introduction to fMRI data and encoding models of the visual brain.**
+**NOTE: Besides the Algonauts Project 2023 Challenge, you might still find this tutorial useful as an introduction to fMRI data and encoding models of the visual brain.**
 
 The quest to understand the nature of human intelligence and engineer more advanced forms of artificial intelligence are becoming increasingly intertwined. The Algonauts Project brings biological and machine intelligence researchers together on a common platform to exchange ideas and advance both fields. The 2023 challenge focuses on explaining neural visual responses to complex naturalistic scenes.
 
