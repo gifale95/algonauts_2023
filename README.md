@@ -17,6 +17,10 @@ Here we provide the development kit tutorial of the Challenge (`algonauts_2023_c
 
 Please watch [this video][video] for an introduction to the Algonauts Project 2023 Challenge and a walkthrough of this development kit tutorial.
 
+In the [`code`][code] folder you will code used for the Challenge, split into two subfolders:
+* [**`01_challenge_data_preparation`**][data_preparation_code]: Code used to extract the challenge data from NSD, and prepare it in Challenge format.
+* [**`02_baseline_encoding_model`**][baseline_model_code]: Code used to train and test the Challenge baseline encoding model.
+
 <font color='red'><b>NOTE:</b></font>  **Even if you're not interested in the Algonauts Project 2023 Challenge, you might still find this tutorial useful as an introduction to fMRI data and encoding models of the visual brain.**
 
 Should you experience problems with the code, please get in touch with Ale (alessandro.gifford@gmail.com).
@@ -65,6 +69,9 @@ Should you experience problems with the code, please get in touch with Ale (ales
 [tutorial_colab]: https://colab.research.google.com/drive/1bLJGP3bAo_hAOwZPHpiSHKlt97X9xsUw?usp=share_link
 [tutorial_github]: https://github.com/gifale95/algonauts_2023
 [video]: https://youtu.be/KlwSDpxUX6k
+[code]: https://github.com/gifale95/algonauts_2023/tree/main/code
+[data_preparation_code]: https://github.com/gifale95/algonauts_2023/tree/main/code/01_challenge_data_preparation
+[baseline_model_code]: https://github.com/gifale95/algonauts_2023/tree/main/code/02_baseline_encoding_model
 [codalab]: https://codalab.lisn.upsaclay.fr/competitions/9304
 [codalab_video]: https://youtu.be/6b8OuMSXIpA
 [nsd]: https://naturalscenesdataset.org/
