@@ -1,0 +1,4 @@
+The "Xh.nsdgeneralRSC.mgz" files consist of ROI masks for RSC in fsaverage space, manually defined by Kendrick Kay, for the Algonauts 2023 Challenge.
+
+Prior to running "challenge_data_preparation.py", the "Xh.nsdgeneralRSC.mgz" files need to be added to the NSD direcory:
+"../natural-scenes-dataset/nsddata/freesurfer/fsaverage/label/"
