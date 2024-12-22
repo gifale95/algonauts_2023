@@ -27,7 +27,7 @@ Should you experience problems with the code, please get in touch with Ale (ales
 
 [nsd]: https://doi.org/10.1038/s41593-021-00962-x
 [coco]: https://cocodataset.org/#home
-[web]: http://algonauts.csail.mit.edu
+[web]: [http://algonauts.csail.mit.edu](https://algonautsproject.com/2023/index.html)
 [paper]: https://arxiv.org/abs/2301.03198
 [encoding]: https://www.sciencedirect.com/science/article/pii/S1053811910010657
 [alexnet]: https://arxiv.org/abs/1404.5997
@@ -63,7 +63,7 @@ Should you experience problems with the code, please get in touch with Ale (ales
 [Adapt COCO Metadata to Cropped NSD Images][adapt_coco_meta]
 
 [ccn]: https://www.youtube.com/live/9Xh55mcWJeE?si=NFwit-aS8kgZnZMa&t=382
-[website]: http://algonauts.csail.mit.edu
+[website]: [http://algonauts.csail.mit.edu](https://algonautsproject.com/2023/index.html)
 [paper]: https://arxiv.org/abs/2301.03198
 [data]: https://docs.google.com/forms/d/e/1FAIpQLSehZkqZOUNk18uTjRTuLj7UYmRGz-OkdsU25AyO3Wm6iAb0VA/viewform?usp=sf_link
 [tutorial_colab]: https://colab.research.google.com/drive/1bLJGP3bAo_hAOwZPHpiSHKlt97X9xsUw?usp=share_link
